@@ -1,0 +1,51 @@
+{
+  "app": {
+    "title": "Smart Clock",
+    "description": "Your multi-functional online clock tool"
+  },
+  "nav": {
+    "clock": "Clock",
+    "alarm": "Alarm",
+    "stopwatch": "Stopwatch",
+    "pomodoro": "Focus Timer",
+    "world": "World Clock"
+  },
+  "clock": {
+    "digital": "Digital Clock",
+    "analog": "Analog Clock",
+    "hideSeconds": "Hide Seconds",
+    "showSeconds": "Show Seconds",
+    "hour24": "24-Hour",
+    "hour12": "12-Hour"
+  },
+  "pomodoro": {
+    "title": "Focus Timer",
+    "work": "Work",
+    "shortBreak": "Short Break",
+    "longBreak": "Long Break",
+    "start": "Start",
+    "pause": "Pause",
+    "reset": "Reset",
+    "settings": "Settings",
+    "workDuration": "Work Duration (minutes)",
+    "shortBreakDuration": "Short Break Duration (minutes)",
+    "longBreakDuration": "Long Break Duration (minutes)",
+    "cyclesBeforeLongBreak": "Cycles before Long Break",
+    "stats": {
+      "completedCycles": "Completed Cycles",
+      "totalWorkTime": "Total Work Time",
+      "resetStats": "Reset Stats",
+      "hours": "hours",
+      "minutes": "minutes"
+    },
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "footer": {
+    "about": "About Us",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Use",
+    "contact": "Contact Us",
+    "rights": "All rights reserved."
+  }
+}

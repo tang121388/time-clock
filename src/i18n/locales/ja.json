@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "スマートクロック",
+    "description": "多機能オンラインクロックツール"
+  },
+  "nav": {
+    "clock": "時計",
+    "stopwatch": "ストップウォッチ",
+    "pomodoro": "集中タイマー",
+    "world": "世界時計"
+  },
+  "clock": {
+    "digital": "デジタル時計",
+    "analog": "アナログ時計",
+    "hideSeconds": "秒を非表示",
+    "showSeconds": "秒を表示",
+    "hour24": "24時間表示",
+    "hour12": "12時間表示"
+  },
+  "pomodoro": {
+    "title": "集中タイマー",
+    "work": "作業",
+    "shortBreak": "小休憩",
+    "longBreak": "長休憩",
+    "start": "開始",
+    "pause": "一時停止",
+    "reset": "リセット",
+    "settings": "設定",
+    "workDuration": "作業時間（分）",
+    "shortBreakDuration": "小休憩時間（分）",
+    "longBreakDuration": "長休憩時間（分）",
+    "cyclesBeforeLongBreak": "長休憩までのサイクル数",
+    "stats": {
+      "completedCycles": "完了したポモドーロ",
+      "totalWorkTime": "総作業時間",
+      "resetStats": "統計をリセット",
+      "hours": "時間",
+      "minutes": "分"
+    },
+    "save": "保存",
+    "cancel": "キャンセル"
+  },
+  "footer": {
+    "about": "会社概要",
+    "privacy": "プライバシーポリシー",
+    "terms": "利用規約",
+    "contact": "お問い合わせ",
+    "rights": "All rights reserved."
+  }
+}

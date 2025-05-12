@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "智慧时钟",
+    "description": "您的多功能在线时钟工具"
+  },
+  "nav": {
+    "clock": "时钟",
+    "stopwatch": "秒表",
+    "pomodoro": "专注计时",
+    "world": "世界时钟"
+  },
+  "clock": {
+    "digital": "数字时钟",
+    "analog": "模拟时钟",
+    "hideSeconds": "隐藏秒",
+    "showSeconds": "显示秒",
+    "hour24": "24小时制",
+    "hour12": "12小时制"
+  },
+  "pomodoro": {
+    "title": "专注计时器",
+    "work": "工作",
+    "shortBreak": "短休息",
+    "longBreak": "长休息",
+    "start": "开始",
+    "pause": "暂停",
+    "reset": "重置",
+    "settings": "设置",
+    "workDuration": "工作时长（分钟）",
+    "shortBreakDuration": "短休息时长（分钟）",
+    "longBreakDuration": "长休息时长（分钟）",
+    "cyclesBeforeLongBreak": "长休息周期（完成多少个工作周期后）",
+    "stats": {
+      "completedCycles": "已完成番茄数",
+      "totalWorkTime": "总工作时间",
+      "resetStats": "重置统计",
+      "hours": "小时",
+      "minutes": "分钟"
+    },
+    "save": "保存",
+    "cancel": "取消"
+  },
+  "footer": {
+    "about": "关于我们",
+    "privacy": "隐私政策",
+    "terms": "使用条款",
+    "contact": "联系我们",
+    "rights": "保留所有权利"
+  }
+}
